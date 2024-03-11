@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "checkJs": true,
     "composite": true,
     "skipLibCheck": true,
     "module": "ESNext",
