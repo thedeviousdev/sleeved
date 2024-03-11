@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>Hi Mat</h1>
+      <h1>Hi Mat, I wonder if you'll notice this has updated ;D</h1>
       <div className="card">
         <button
           onClick={() => {
